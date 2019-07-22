@@ -1,0 +1,17 @@
+{
+"companyName": "DefaultCompany",
+"productName": "VideoEditor",
+"productVersion": "0.1",
+"dataUrl": "MouseOrbiting.data.unityweb",
+"asmCodeUrl": "MouseOrbiting.asm.code.unityweb",
+"asmMemoryUrl": "MouseOrbiting.asm.memory.unityweb",
+"asmFrameworkUrl": "MouseOrbiting.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.1.0f2"
+}
